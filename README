@@ -1,0 +1,16 @@
+
+
+This is simply to bootstrap a workspace for FAPE.
+You need gws (https://streakycobra.github.io/gws/) and 
+sbt (http://www.scala-sbt.org/)
+
+
+You pull all needed repositories with 
+$ gws update
+
+
+Once you have them you can use sbt at the root of this repository.
+
+$ sbt compile   # builds all subprojects
+$ sbt pack   # generates executables in target/pack/bin
+$ sbt "~ pack"  # rebuilds executables every time a source file changes
