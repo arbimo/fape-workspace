@@ -2,5 +2,3 @@ planning | ssh://git@git.openrobots.org/robots/fape.git
 graphs | ssh://git@git.openrobots.org/robots/fape/fape-graphs.git
 anml-parser | ssh://git@git.openrobots.org/robots/fape/fape-anml.git
 constraints | ssh://git@git.openrobots.org/robots/fape/fape-constraints.git
-ros-scala | git@bitbucket.org:athy/ros-scala.git
-fape-acting | git@bitbucket.org:athy/fape-acting.git
