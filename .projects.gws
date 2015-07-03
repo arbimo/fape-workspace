@@ -2,3 +2,4 @@ planning | ssh://git@git.openrobots.org/robots/fape.git
 graphs | ssh://git@git.openrobots.org/robots/fape/fape-graphs.git
 anml-parser | ssh://git@git.openrobots.org/robots/fape/fape-anml.git
 constraints | ssh://git@git.openrobots.org/robots/fape/fape-constraints.git
+svg-plot | https://github.com/athy/svg-plot.git
